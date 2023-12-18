@@ -1,0 +1,2 @@
+# musicbeeskins
+Skins for MusicBee
