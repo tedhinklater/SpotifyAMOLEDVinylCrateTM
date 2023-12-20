@@ -22,32 +22,32 @@
 
 <!-- Album Carousel -->
 
+<element name="#Cover_01" type="AlbumCover" id="Tracks[0]" xAnchor="Panel.5" x="0" yAnchor="Panel.0.1" y="0" align="Top.Left" widthDock="Panel.Height.85" width="0" heightDock="Panel.Height.85" height="0" brightness="1.0"/>
+
+<element name="#Cover_02" type="AlbumCover" id="Tracks[1]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.0" y="0" align="Top.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
+
+<element name="#Cover_03" type="AlbumCover" id="Tracks[2]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.103" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
 
 
-<element name="#Cover_02" type="AlbumCover" id="Tracks[1]" xAnchor="Panel.99" x="0" yAnchor="Panel.0" y="0" align="Top.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
-
-<element name="#Cover_03" type="AlbumCover" id="Tracks[2]" xAnchor="Panel.99" x="0" yAnchor="Panel.103" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
+<element name="#Cover_04" type="AlbumCover" id="Tracks[3]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.112" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
 
 
-<element name="#Cover_04" type="AlbumCover" id="Tracks[3]" xAnchor="Panel.99" x="0" yAnchor="Panel.112" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
+<element name="#Cover_05" type="AlbumCover" id="Tracks[4]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.121" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
 
 
-<element name="#Cover_05" type="AlbumCover" id="Tracks[4]" xAnchor="Panel.99" x="0" yAnchor="Panel.121" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
+<element name="#Cover_06" type="AlbumCover" id="Tracks[5]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.130" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
 
 
-<element name="#Cover_06" type="AlbumCover" id="Tracks[5]" xAnchor="Panel.99" x="0" yAnchor="Panel.130" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
+<element name="#Cover_07" type="AlbumCover" id="Tracks[6]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.139" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.4"/>
 
 
-<element name="#Cover_07" type="AlbumCover" id="Tracks[6]" xAnchor="Panel.99" x="0" yAnchor="Panel.139" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.4"/>
+<element name="#Cover_08" type="AlbumCover" id="Tracks[7]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.148" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.4"/>
 
 
-<element name="#Cover_08" type="AlbumCover" id="Tracks[7]" xAnchor="Panel.99" x="0" yAnchor="Panel.148" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.4"/>
+<element name="#Cover_09" type="AlbumCover" id="Tracks[8]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.157" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.3"/>
 
 
-<element name="#Cover_09" type="AlbumCover" id="Tracks[8]" xAnchor="Panel.99" x="0" yAnchor="Panel.157" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.3"/>
-
-
-<element name="#Cover_10" type="AlbumCover" id="Tracks[9]" xAnchor="Panel.99" x="0" yAnchor="Panel.166" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.3"/>
+<element name="#Cover_10" type="AlbumCover" id="Tracks[9]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.166" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.3"/>
 
 <element type="SpectrumVisualiser" xAnchor="Panel.0" x="0" yAnchor="#Cover_01.Bottom" y="5" widthDock="x:#Cover_10.Left" width="0" heightDock="y:Panel.Bottom" height="30" fg="165,59,255,222" bdr="18,252,53"></element>
 
@@ -85,7 +85,7 @@
 		<child id="Artist" ></child>
 </element>
 
-<element name="#Cover_01" type="AlbumCover" id="Tracks[0]" xAnchor="Panel.1" x="0" yAnchor="Panel.0.1" y="0" align="Top.Left" widthDock="Panel.Height.85" width="0" heightDock="Panel.Height.85" height="0" brightness="1.0"/>
+
 
 	<!-- Album Info -->
 	<element type="Field" id="Title" xAnchor="#Cover_01.15" x="0" yAnchor="Panel.85" y="0" widthDock="x:#Cover.Right" width="0" align="center" font="Lemon Milk" style="Bold" size="22" fg="252,186,3" />
