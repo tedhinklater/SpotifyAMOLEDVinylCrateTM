@@ -1,8 +1,8 @@
 # musicbeeskins
-Skins for MusicBee
+Skins and layout for MusicBee
 
-NoBuyBack AMOLED skins based on NoBuyBack's Spotify Accent skin
-![Screenshot 2023-12-18 113736](https://github.com/tedhinklater/musicbeeskins/assets/66086488/2d100a78-a90e-4e6e-b461-68d4fd71b00b)
-![Screenshot 2023-12-18 113432](https://github.com/tedhinklater/musicbeeskins/assets/66086488/1d284d01-6b24-4b54-b3ba-804e80ece648)
-![Screenshot 2023-12-18 113413](https://github.com/tedhinklater/musicbeeskins/assets/66086488/3f3e8f9f-5631-47be-9e7a-e399c809727f)
-![Screenshot 2023-12-18 113334](https://github.com/tedhinklater/musicbeeskins/assets/66086488/981b6ba9-3215-4601-9124-0309c901b532)
+![Spotify AMOLED_1](https://github.com/tedhinklater/musicbeeskins/assets/66086488/f3523212-b3b2-42b0-9f99-21a1fdd17946)
+![Spotify AMOLED_2](https://github.com/tedhinklater/musicbeeskins/assets/66086488/a43e5e3e-0dd9-43bc-8b07-b4e8638df6c5)
+![Spotify AMOLED_3](https://github.com/tedhinklater/musicbeeskins/assets/66086488/865e118f-ec49-4191-bca1-9be84855d89e)
+![Spotify AMOLED_4](https://github.com/tedhinklater/musicbeeskins/assets/66086488/b2c978dd-cdc6-4732-a4e7-f5c4ff520c8e)
+![Spotify AMOLED_5](https://github.com/tedhinklater/musicbeeskins/assets/66086488/fcff3d4b-12a5-4fa7-85ec-deacccaf544f)
