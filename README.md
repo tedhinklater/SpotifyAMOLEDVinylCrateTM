@@ -12,7 +12,8 @@ Skins and layout for MusicBee
 ![Screenshot 2023-12-20 142807](https://github.com/tedhinklater/musicbeeskins/assets/66086488/b67b2d87-5215-40d1-a673-addd86f8fd0f)
 ![Screenshot 2023-12-20 142845](https://github.com/tedhinklater/musicbeeskins/assets/66086488/e593b7de-14e8-46cb-b062-59d66866a86f)
 ![Screenshot 2023-12-20 142855](https://github.com/tedhinklater/musicbeeskins/assets/66086488/0a7b4ac4-5932-48e0-ad9a-0d7e79f3d2dc)
-![Screenshot 2023-12-20 142938](https://github.com/tedhinklater/musicbeeskins/assets/66086488/77714742-1f0e-4e47-b35a-f995866c9700)
 ![Screenshot 2023-12-20 174358](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/735fd0ee-6644-444c-9d0e-1b8bed69f54b)
+![Screenshot 2023-12-20 142938](https://github.com/tedhinklater/musicbeeskins/assets/66086488/77714742-1f0e-4e47-b35a-f995866c9700)
+
 
 
