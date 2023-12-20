@@ -6,7 +6,17 @@ Skins and layout for MusicBee
 ![Spotify AMOLED_3](https://github.com/tedhinklater/musicbeeskins/assets/66086488/865e118f-ec49-4191-bca1-9be84855d89e)
 ![Spotify AMOLED_4](https://github.com/tedhinklater/musicbeeskins/assets/66086488/b2c978dd-cdc6-4732-a4e7-f5c4ff520c8e)
 ![Spotify AMOLED_5](https://github.com/tedhinklater/musicbeeskins/assets/66086488/fcff3d4b-12a5-4fa7-85ec-deacccaf544f)
-![Screenshot 2023-12-20 180906](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/20cf5d18-b773-4df0-b53c-463b542be49b)
+
+Fullscreen
+![Screenshot 2023-12-20 190518](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/a4f768f1-8043-447e-ab9f-0bd8c98f1941)
+
+Embedded in Now Playing tab
+![Screenshot 2023-12-20 190542](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/162e43db-7038-4c23-8576-757ff845b1d6)
+
+Embedded without right sidebar
+![Screenshot 2023-12-20 190531](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/8c3fbf5b-ae23-42c0-aed1-99a4539246d1)
+
+
 ![Screenshot 2023-12-20 142727](https://github.com/tedhinklater/musicbeeskins/assets/66086488/60a2adfb-a634-4304-8e2c-17cde920bc32)
 ![Screenshot 2023-12-20 142749](https://github.com/tedhinklater/musicbeeskins/assets/66086488/dd88e7e7-9ebd-4634-af59-40bd82dd7676)
 ![Screenshot 2023-12-20 142807](https://github.com/tedhinklater/musicbeeskins/assets/66086488/b67b2d87-5215-40d1-a673-addd86f8fd0f)
