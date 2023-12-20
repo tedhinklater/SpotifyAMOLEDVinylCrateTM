@@ -49,7 +49,7 @@
 
 <element name="#Cover_10" type="AlbumCover" id="Tracks[9]" xAnchor="Panel.99" x="0" yAnchor="Panel.166" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.3"/>
 
-
+<element type="SpectrumVisualiser" xAnchor="Panel.0" x="0" yAnchor="#Cover_01.Bottom" y="5" widthDock="x:#Cover_10.Left" width="0" heightDock="y:Panel.Bottom" height="30" fg="165,59,255,222" bdr="18,252,53"></element>
 
 
 <element name="#Text_03" type="Field" id="Tracks[2]" xAnchor="#Cover_03.60" x="0" yAnchor="#Cover_03.25" y="0" align="Bottom.Left" widthDock="x:#Cover_03.Right" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" size="10" fg="255,255,255">
@@ -118,4 +118,6 @@
 		<!-- Toolbar -->
 		<element type="Text" xAnchor="#Cover_01.80" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="OpenNowPlayingAssistant">&#xE094;</element>
 	</element>
+
+
 </root>
