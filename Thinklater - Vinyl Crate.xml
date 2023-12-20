@@ -22,7 +22,7 @@
 
 <!-- Album Carousel -->
 
-<element name="#Cover_01" type="AlbumCover" id="Tracks[0]" xAnchor="Panel.1" x="0" yAnchor="Panel.0.1" y="0" align="Top.Left" widthDock="Panel.Height.85" width="0" heightDock="Panel.Height.85" height="0" brightness="1.0"/>
+
 
 <element name="#Cover_02" type="AlbumCover" id="Tracks[1]" xAnchor="Panel.99" x="0" yAnchor="Panel.0" y="0" align="Top.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
 
@@ -85,6 +85,7 @@
 		<child id="Artist" ></child>
 </element>
 
+<element name="#Cover_01" type="AlbumCover" id="Tracks[0]" xAnchor="Panel.1" x="0" yAnchor="Panel.0.1" y="0" align="Top.Left" widthDock="Panel.Height.85" width="0" heightDock="Panel.Height.85" height="0" brightness="1.0"/>
 
 	<!-- Album Info -->
 	<element type="Field" id="Title" xAnchor="#Cover_01.15" x="0" yAnchor="Panel.85" y="0" widthDock="x:#Cover.Right" width="0" align="center" font="Lemon Milk" style="Bold" size="22" fg="252,186,3" />
