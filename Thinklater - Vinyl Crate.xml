@@ -87,13 +87,14 @@
 
 
 
-	<!-- Album Info -->
-	<element type="Field" id="Title" xAnchor="#Cover_01.15" x="0" yAnchor="Panel.85" y="0" widthDock="x:#Cover.Right" width="0" align="center" font="Lemon Milk" style="Bold" size="22" fg="252,186,3" />
-	<element type="Field" id="Album" xAnchor="#Cover_01.15" x="0" yAnchor="Panel.89" y="0" widthDock="x:#Cover.Right" width="0" align="center" font="Lemon Milk" style="Regular" size="14" fg="255,255,255" />
-    <child>  •  </child>
-		<child id="Year (yyyy)" ></child>
-	<element type="Field" id="Artist" xAnchor="#Cover_01.15" x="0" yAnchor="Panel.91.5" y="0" widthDock="x:#Cover.Right" width="0" align="center" font="Lemon Milk" style="Regular" size="16" fg="255,255,255" />
+<!-- Album Info -->
+<element type="Field" id="Title" xAnchor="#Cover_01.Bottom" x="0" yAnchor="Panel.85" y="0" widthDock="x:#Cover_01.Right" align="Center" font="Lemon Milk" style="Bold" size="22" fg="252,186,3" />
 
+<element type="Field" id="Album" xAnchor="#Cover_01.Bottom" x="0" yAnchor="Panel.89" y="0" widthDock="x:#Cover_01.Right" align="Center" font="Lemon Milk" style="Regular" size="14" fg="255,255,255" />
+<child>  •  </child>
+<child id="Year (yyyy)" ></child>
+
+<element type="Field" id="Artist" xAnchor="#Cover_01.Bottom" x="0" yAnchor="Panel.91.5" y="0" widthDock="x:#Cover_01.Right" align="Center" font="Lemon Milk" style="Regular" size="16" fg="255,255,255" />
 
 <!-- Up Next -->
 <element type="Block" xAnchor="#Cover_02.10" x="0" yAnchor="#Cover_02.25" y="0" widthDock="x:Panel.Right" width="0" heightDock="y:Panel.Bottom" height="0" fg="255,255,255,255" bg="0,0,0,0">
@@ -108,15 +109,15 @@
 	<element type="PlayerBar" xAnchor="#Cover_01.0" x="0" yAnchor="#Cover_10.60" y="0" width="0" height="0"/>
 
 	<element type="Block" xAnchor="#Cover_01.0" x="0" yAnchor="#Cover_10.50" y="0" widthDock="x:Panel.Right" width="0" heightDock="y:Panel.Bottom" height="0" fg="0,255,255,255" mouseOverFg="255,255,255,255" bg="0,0,0,0" mouseOverBg="0,0,0,0">
-		<element type="Text" xAnchor="#Cover_01.35" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.40" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="PlayPrevious">&#xE100;</element>
+		<element type="Text" xAnchor="#Cover_01.38" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.40" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="PlayPrevious">&#xE100;</element>
 
-		<element type="Text" xAnchor="#Cover_01.45" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="PlayPause" visibleTrigger="Playing">&#xE103;</element>
-		<element type="Text" xAnchor="#Cover_01.45" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayPause" visibleTrigger="NotPlaying">&#xE102;</element>
+		<element type="Text" xAnchor="#Cover_01.48" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="PlayPause" visibleTrigger="Playing">&#xE103;</element>
+		<element type="Text" xAnchor="#Cover_01.48" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayPause" visibleTrigger="NotPlaying">&#xE102;</element>
 
-		<element type="Text" xAnchor="#Cover_01.55" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayNext">&#xE101;</element>
+		<element type="Text" xAnchor="#Cover_01.58" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayNext">&#xE101;</element>
 
 		<!-- Toolbar -->
-		<element type="Text" xAnchor="#Cover_01.75" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="OpenNowPlayingAssistant">&#xE094;</element>
+		<element type="Text" xAnchor="#Cover_01.78" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="OpenNowPlayingAssistant">&#xE094;</element>
 	</element>
 
 
