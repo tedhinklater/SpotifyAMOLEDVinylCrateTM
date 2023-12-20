@@ -13,7 +13,7 @@ Fullscreen
 Embedded in Now Playing tab
 ![Screenshot 2023-12-20 190542](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/162e43db-7038-4c23-8576-757ff845b1d6)
 
-Embedded without right sidebar
+Embedded with right sidebar
 ![Screenshot 2023-12-20 190531](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/8c3fbf5b-ae23-42c0-aed1-99a4539246d1)
 
 
