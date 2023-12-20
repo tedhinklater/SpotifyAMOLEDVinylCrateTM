@@ -8,14 +8,14 @@ Skins and layout for MusicBee
 ![Spotify AMOLED_5](https://github.com/tedhinklater/musicbeeskins/assets/66086488/fcff3d4b-12a5-4fa7-85ec-deacccaf544f)
 
 Fullscreen
-![Screenshot 2023-12-20 190518](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/a4f768f1-8043-447e-ab9f-0bd8c98f1941)
+![Screenshot 2023-12-20 192529](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/33e313a1-a25f-4367-9ad1-ec4ef64cfdde)
+
 
 Embedded in Now Playing tab
-![Screenshot 2023-12-20 190542](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/162e43db-7038-4c23-8576-757ff845b1d6)
+![Screenshot 2023-12-20 192352](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/f8dc97b9-468d-4ac8-b8e3-36a65e168fa2)
 
-Embedded with right sidebar
-![Screenshot 2023-12-20 190531](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/8c3fbf5b-ae23-42c0-aed1-99a4539246d1)
-
+Embedded, with right sidebar
+![Screenshot 2023-12-20 192402](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/20b4dd99-c692-441a-8e0e-ddbe41a0b565)
 
 
 ![Screenshot 2023-12-20 174358](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/735fd0ee-6644-444c-9d0e-1b8bed69f54b)
