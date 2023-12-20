@@ -6,7 +6,7 @@ Skins and layout for MusicBee
 ![Spotify AMOLED_3](https://github.com/tedhinklater/musicbeeskins/assets/66086488/865e118f-ec49-4191-bca1-9be84855d89e)
 ![Spotify AMOLED_4](https://github.com/tedhinklater/musicbeeskins/assets/66086488/b2c978dd-cdc6-4732-a4e7-f5c4ff520c8e)
 ![Spotify AMOLED_5](https://github.com/tedhinklater/musicbeeskins/assets/66086488/fcff3d4b-12a5-4fa7-85ec-deacccaf544f)
-![thinklater vinyls](https://github.com/tedhinklater/musicbeeskins/assets/66086488/a4dd9bd8-5fa3-470a-aff0-7be9a27ef2f7)
+![Screenshot 2023-12-20 180906](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/20cf5d18-b773-4df0-b53c-463b542be49b)
 ![Screenshot 2023-12-20 142727](https://github.com/tedhinklater/musicbeeskins/assets/66086488/60a2adfb-a634-4304-8e2c-17cde920bc32)
 ![Screenshot 2023-12-20 142749](https://github.com/tedhinklater/musicbeeskins/assets/66086488/dd88e7e7-9ebd-4634-af59-40bd82dd7676)
 ![Screenshot 2023-12-20 142807](https://github.com/tedhinklater/musicbeeskins/assets/66086488/b67b2d87-5215-40d1-a673-addd86f8fd0f)
