@@ -26,6 +26,7 @@
 
 <element name="#Cover_02" type="AlbumCover" id="Tracks[1]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.0" y="0" align="Top.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
 
+
 <element name="#Cover_03" type="AlbumCover" id="Tracks[2]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.103" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
 
 
@@ -104,21 +105,30 @@
     <element type="Field" id="Tracks[1]" xAnchor="#Cover_02.07" x="0" yAnchor="#Cover_02.23" y="0" widthDock="x:#SpacerR.Left" width="0" align="left" font="Lemon Milk" style="Regular" size="14" fg="255,255,255"><child id="Artist" width="Panel.20"/></element>
 </element>
 
-
 	<!-- Music Controls -->
 	<element type="PlayerBar" xAnchor="#Cover_01.0" x="0" yAnchor="#Cover_10.60" y="0" width="0" height="0"/>
 
-	<element type="Block" xAnchor="#Cover_01.0" x="0" yAnchor="#Cover_10.50" y="0" widthDock="x:Panel.Right" width="0" heightDock="y:Panel.Bottom" height="0" fg="0,255,255,255" mouseOverFg="255,255,255,255" bg="0,0,0,0" mouseOverBg="0,0,0,0">
-		<element type="Text" xAnchor="#Cover_01.38" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.40" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="PlayPrevious">&#xE100;</element>
+<element type="Block" xAnchor="#Cover_01.0" x="0" yAnchor="#Cover_10.50" y="0" widthDock="x:Panel.Right" width="0" heightDock="y:Panel.Bottom" height="0" fg="0,255,255,255" mouseOverFg="255,255,255,255" bg="0,0,0,0" mouseOverBg="0,0,0,0">
 
-		<element type="Text" xAnchor="#Cover_01.48" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="PlayPause" visibleTrigger="Playing">&#xE103;</element>
-		<element type="Text" xAnchor="#Cover_01.48" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayPause" visibleTrigger="NotPlaying">&#xE102;</element>
+		<element type="Text" xAnchor="#Cover_01.02" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="VolumeToggleMute" visibleTrigger="VolumeNotMute">&#xE7F5;</element>
+		<element type="Text" xAnchor="#Cover_01.02" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="VolumeToggleMute" visibleTrigger="VolumeMute">&#xE74F;</element>
 
-		<element type="Text" xAnchor="#Cover_01.58" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayNext">&#xE101;</element>
+<element type="Text" xAnchor="#Cover_01.25" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.40" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="PlayPrevious">&#xE892;</element>
 
-		<!-- Toolbar -->
-		<element type="Text" xAnchor="#Cover_01.78" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="OpenNowPlayingAssistant">&#xE094;</element>
-	</element>
+		<element type="Text" xAnchor="#Cover_01.48" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="PlayPause" visibleTrigger="Playing">&#xE769;</element>
+		<element type="Text" xAnchor="#Cover_01.48" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayPause" visibleTrigger="NotPlaying">&#xE768;</element>
 
+		<element type="Text" xAnchor="#Cover_01.70" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayNext">&#xE893;</element>
+
+<element type="Text" xAnchor="#Cover_01.70" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="5,255,255,255" mouseOverFg="13,212,83" onClick="PlayNext">&#xE893;</element>
+
+</element> 
+
+
+<!-- Shuffle -->
+<element type="Text" xAnchor="#Cover_01.95" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="shuffleToggle" visibleTrigger="shuffleOn">&#xE8B1;</element>
+<element type="Text" xAnchor="#Cover_01.95" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="shuffleToggle" visibleTrigger="shuffleOff">&#xE94E;</element>
+
+<!-- Volume -->
 
 </root>
