@@ -22,8 +22,6 @@
 
 <!-- Album Carousel -->
 
-
-
 <element name="#Cover_01" type="AlbumCover" id="Tracks[0]" xAnchor="Panel.5" x="0" yAnchor="Panel.0.1" y="0" align="Top.Left" widthDock="Panel.Height.85" width="0" heightDock="Panel.Height.85" height="0" brightness="1.0"/>
 
 <element name="#Cover_02" type="AlbumCover" id="Tracks[1]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.0" y="0" align="Top.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
@@ -95,9 +93,6 @@
 
 
 
-
-
-
 <!-- Album Info -->
 <element type="Field" id="Title" xAnchor="#Cover_01.Bottom" x="0" yAnchor="Panel.85" y="0" widthDock="x:#Cover_01.Right" align="Center" font="Lemon Milk" style="Bold" size="22" fg="252,186,3" />
 
@@ -136,11 +131,8 @@
 
 
 <!-- Shuffle -->
-<element type="Text" xAnchor="#Cover_01.95" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="shuffleToggle" visibleTrigger="shuffleOn">&#xE8B1;</element>
-<element type="Text" xAnchor="#Cover_01.95" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="shuffleToggle" visibleTrigger="shuffleOff">&#xE94E;</element>
-
-
-
+<element type="Text" xAnchor="#Cover_01.94" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="shuffleToggle" visibleTrigger="shuffleOn">&#xE8B1;</element>
+<element type="Text" xAnchor="#Cover_01.94" x="0" yAnchor="Panel.96" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="20" fg="55,255,255,255" mouseOverFg="13,212,83" onClick="shuffleToggle" visibleTrigger="shuffleOff">&#xE94E;</element>
 
 
 <!-- Artist Panel-->
@@ -167,11 +159,9 @@
 
 	
 <element name="#OpenLyricsPanel" type="Text" xAnchor="#Cover_01.02" x="0" yAnchor="Panel.90" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="13,212,83" onClick="OpenAutoHidePanel:#LyricsPanel">&#xE7F0;</element>
-<element name="#OpenArtistInfoPanel" type="Text" xAnchor="#Cover_01.95" x="0" yAnchor="Panel.90" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="13,212,83" onClick="OpenAutoHidePanel:#ArtistInfoPanel">&#xE90B;</element>
+<element name="#OpenArtistInfoPanel" type="Text" xAnchor="#Cover_01.95" x="0" yAnchor="Panel.90" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="13,212,83" onClick="OpenAutoHidePanel:#ArtistInfoPanel">&#xE77B;</element>
 
 	<element type="Text"  xAnchor="#Controls.100.5" x="0" yAnchor="#Cover_10.2" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="255,0,64" onClick="CloseWindow">&#xEF2C;</element>
-
-
 
 
 </root>
