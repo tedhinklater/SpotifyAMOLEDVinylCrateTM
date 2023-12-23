@@ -8,7 +8,7 @@ Skins and layout for MusicBee
 
 
 Fullscreen
-![Screenshot 2023-12-23 145445](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/8d813c8e-f535-4bc5-ab4e-fc7327e56bec)
+![Screenshot 2023-12-23 145211](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/1fd63f8d-833f-4d55-8660-143550d88341)
 
 Embedded in Now Playing tab
 ![Screenshot 2023-12-23 145112](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/2ca5cec3-cb17-49f9-9e22-59e562e1027d)
