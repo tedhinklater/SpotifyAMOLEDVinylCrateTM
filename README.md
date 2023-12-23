@@ -14,7 +14,7 @@ Embedded in Now Playing tab
 ![Screenshot 2023-12-23 145112](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/2ca5cec3-cb17-49f9-9e22-59e562e1027d)
 
 Embedded, with right sidebar
-![Screenshot 2023-12-23 145721](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/dd5ff213-e4a5-4b05-a6e8-8aba26b176ad)
+![Screenshot 2023-12-23 145721](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/239662b4-e838-4b81-8f58-bf15425dd682)
 
 Artist Info Panel active
 ![Screenshot 2023-12-23 145330](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/7e7baf01-788c-4b4d-bbb4-94e379332915)
