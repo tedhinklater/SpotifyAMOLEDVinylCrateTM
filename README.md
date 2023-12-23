@@ -8,22 +8,22 @@ Skins and layout for MusicBee
 
 
 Fullscreen
-![Screenshot 2023-12-23 145211](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/1fd63f8d-833f-4d55-8660-143550d88341)
+![Screenshot 2023-12-23 151716](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/1b563b92-a554-49ca-982c-612eb15bcf0d)
 
 Embedded in Now Playing tab
-![Screenshot 2023-12-23 145112](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/2ca5cec3-cb17-49f9-9e22-59e562e1027d)
+![Screenshot 2023-12-23 151724](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/64e5e558-0c10-4ff7-80bc-bb526b9474fe)
 
 Embedded, with right sidebar
-![Screenshot 2023-12-23 145721](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/239662b4-e838-4b81-8f58-bf15425dd682)
+![Screenshot 2023-12-23 151738](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/853d94d5-6c74-4626-9ffa-58984ddee821)
 
 Artist Info Panel active
-![Screenshot 2023-12-23 145330](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/7e7baf01-788c-4b4d-bbb4-94e379332915)
+![Screenshot 2023-12-23 151805](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/646e840c-b846-43a9-adfc-7127a7c7f668)
 
 Lyrics Panel Active
-![Screenshot 2023-12-23 145221](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/4dd083fd-6a8b-4734-88e1-bf1ce868e925)
+![Screenshot 2023-12-23 151815](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/795cd40d-c248-4254-a251-86f87a53ae6a)
 
 Upcoming Song Titles Active
-![Screenshot 2023-12-23 145430](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/fb3b5a13-8362-4533-9e19-ba3f1104031a)
+![Screenshot 2023-12-23 151830](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/07a6f25c-4b2f-439b-bfea-17f9002a060f)
 
 
 ![Screenshot 2023-12-20 174358](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/735fd0ee-6644-444c-9d0e-1b8bed69f54b)
