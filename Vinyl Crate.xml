@@ -53,7 +53,7 @@
 
 
 <autoHide name="#TrackInfoPanel" xAnchor="#Cover_03.0" x="0" yAnchor="#Cover_03.0" y="0" align="Top.Left" widthDock="x:#Cover_03.Right" width="4" heightDock="y:#Cover_10.Bottom" height="1" bg="150,0,0,0" allowPinning="true" resizePictures="false">
-<element name="#Text_03" type="Field" id="Tracks[2]" xAnchor="#Cover_03.0" x="0" yAnchor="#Cover_03.25" y="0" align="Bottom.Left" widthDock="x:#Cover_03.Right" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" size="10" fg="220,220,220" fg2="0,255,255">
+<element name="#Text_03" type="Field" id="Tracks[2]" xAnchor="#Cover_03.0" x="0" yAnchor="#Cover_03.25" y="0" align="Bottom.Left" widthDock="x:#Cover_03.Right" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" size="10" fg="255,255,255" fg2="0,255,255">
     <child id="Title" width="Panel.50"></child>    <child>  •  </child>
 		<child id="Artist" ></child>
 </element>
