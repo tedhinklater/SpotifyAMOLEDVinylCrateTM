@@ -6,24 +6,24 @@ Skins and layout for MusicBee
 ![Spotify AMOLED_3](https://github.com/tedhinklater/musicbeeskins/assets/66086488/865e118f-ec49-4191-bca1-9be84855d89e)
 ![Spotify AMOLED_4](https://github.com/tedhinklater/musicbeeskins/assets/66086488/b2c978dd-cdc6-4732-a4e7-f5c4ff520c8e)
 
-
+"Vinyl Crate" Theatre Mode skin. Recreates the feel of crate digging, with Shuffle, Mute and Jump-to-Track onClick feature.
 Fullscreen
-![Screenshot 2023-12-23 182917](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/2ed4add6-66e0-4fc8-8d6a-b5306b89962c)
+![Screenshot 2023-12-23 212844](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/296d378c-ea18-4828-ba85-d53e1c34d205)
 
 Upcoming Song Titles Active
-![Screenshot 2023-12-23 182926](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/fea3816a-8917-4e85-bbb3-f8e9c1a0c608)
+![Screenshot 2023-12-23 212849](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/5f5400f6-d484-4954-800c-48a7ef040906)
 
 Embedded in Now Playing tab
-![Screenshot 2023-12-23 182938](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/bf695e6a-d2ce-42ae-91f5-eecf07ed40e2)
+![Screenshot 2023-12-23 212853](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/0c459961-8f33-4895-acf7-5e78ff3db6e1)
 
 Embedded, with right sidebar
-![Screenshot 2023-12-23 183011](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/f80f86f8-f7d6-47e2-a99c-b1a13720e7ad)
-
-Artist Info Panel active
-![Screenshot 2023-12-23 183048](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/219d37b1-4000-428c-894d-84e7329c0203)
+![Screenshot 2023-12-23 212901](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/c3b2544c-f89b-4a73-9ce9-cc08fa380277)
 
 Lyrics Panel Active
-![Screenshot 2023-12-23 183100](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/eacb8bf8-31b2-4da1-9058-c4504a5ebed6)
+![Screenshot 2023-12-23 212915](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/69aa0579-e356-4c64-88d7-a559fc8365b5)
+
+Artist Info Panel active
+![Screenshot 2023-12-23 212924](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/fa087cd2-4fd4-455d-b0a0-4b52278cf3cf)
 
 
 ![Screenshot 2023-12-20 174358](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/735fd0ee-6644-444c-9d0e-1b8bed69f54b)
