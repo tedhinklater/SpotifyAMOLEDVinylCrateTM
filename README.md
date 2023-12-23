@@ -8,22 +8,22 @@ Skins and layout for MusicBee
 
 
 Fullscreen
-![Screenshot 2023-12-23 151716](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/1b563b92-a554-49ca-982c-612eb15bcf0d)
-
-Embedded in Now Playing tab
-![Screenshot 2023-12-23 151724](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/64e5e558-0c10-4ff7-80bc-bb526b9474fe)
-
-Embedded, with right sidebar
-![Screenshot 2023-12-23 151738](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/853d94d5-6c74-4626-9ffa-58984ddee821)
-
-Artist Info Panel active
-![Screenshot 2023-12-23 151805](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/646e840c-b846-43a9-adfc-7127a7c7f668)
-
-Lyrics Panel Active
-![Screenshot 2023-12-23 151815](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/795cd40d-c248-4254-a251-86f87a53ae6a)
+![Screenshot 2023-12-23 182917](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/2ed4add6-66e0-4fc8-8d6a-b5306b89962c)
 
 Upcoming Song Titles Active
-![Screenshot 2023-12-23 151830](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/07a6f25c-4b2f-439b-bfea-17f9002a060f)
+![Screenshot 2023-12-23 182926](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/fea3816a-8917-4e85-bbb3-f8e9c1a0c608)
+
+Embedded in Now Playing tab
+![Screenshot 2023-12-23 182938](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/bf695e6a-d2ce-42ae-91f5-eecf07ed40e2)
+
+Embedded, with right sidebar
+![Screenshot 2023-12-23 183011](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/f80f86f8-f7d6-47e2-a99c-b1a13720e7ad)
+
+Artist Info Panel active
+![Screenshot 2023-12-23 183048](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/219d37b1-4000-428c-894d-84e7329c0203)
+
+Lyrics Panel Active
+![Screenshot 2023-12-23 183100](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/eacb8bf8-31b2-4da1-9058-c4504a5ebed6)
 
 
 ![Screenshot 2023-12-20 174358](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/735fd0ee-6644-444c-9d0e-1b8bed69f54b)
