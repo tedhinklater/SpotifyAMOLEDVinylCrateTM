@@ -8,14 +8,23 @@ Skins and layout for MusicBee
 
 
 Fullscreen
-![vinylcrate3](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/0c4c0f3c-55a0-47b5-acaa-65ae8a0a769e)
-
+![Screenshot 2023-12-23 145445](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/8d813c8e-f535-4bc5-ab4e-fc7327e56bec)
 
 Embedded in Now Playing tab
-![vinylcrate1](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/503f6375-158e-419d-af00-7b0a78ddcea8)
+![Screenshot 2023-12-23 145112](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/2ca5cec3-cb17-49f9-9e22-59e562e1027d)
 
 Embedded, with right sidebar
-![vinylcrate2](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/03c619a3-4283-4459-ab43-f3c10be212ab)
+![Screenshot 2023-12-23 145721](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/dd5ff213-e4a5-4b05-a6e8-8aba26b176ad)
+
+Artist Info Panel active
+![Screenshot 2023-12-23 145330](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/7e7baf01-788c-4b4d-bbb4-94e379332915)
+
+Lyrics Panel Active
+![Screenshot 2023-12-23 145221](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/4dd083fd-6a8b-4734-88e1-bf1ce868e925)
+
+Upcoming Song Titles Active
+![Screenshot 2023-12-23 145430](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/fb3b5a13-8362-4533-9e19-ba3f1104031a)
+
 
 ![Screenshot 2023-12-20 174358](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/735fd0ee-6644-444c-9d0e-1b8bed69f54b)
 
