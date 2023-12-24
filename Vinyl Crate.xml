@@ -169,6 +169,4 @@
 
 <!-- Progress Bar -->
 	<element type="ProgressBar" xAnchor="#Cover_01.0" x="0" yAnchor="#Controls.99.5" y="0" widthDock="x:#Cover_01.Right" width="0" height="3"  fg="15,255,255,255" bg="252,78,3" ></element>
-	<element type="ProgressPosition" xAnchor="#Controls.37" x="0" yAnchor="#Controls.62.5" y="0" align="Center" widthDock="x:#Controls.45.5" width="0" font="Segoe UI" style="Regluar" size="10" fg="200,200,200" ></element>
-
 </root>
