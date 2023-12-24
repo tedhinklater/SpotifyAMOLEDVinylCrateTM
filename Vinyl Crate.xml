@@ -168,7 +168,7 @@
 	<element type="Text"  xAnchor="#Controls.100.5" x="0" yAnchor="#Cover_10.2" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="255,0,64" onClick="CloseWindow">&#xEF2C;</element>
 
 <!-- Progress Bar -->
-	<element type="ProgressBar" xAnchor="#Cover_01.0" x="0" yAnchor="#Controls.98.5" y="0" widthDock="x:#Cover_01.Right" width="0" height="3"  fg="15,255,255,255" bg="252,78,3" ></element>
+	<element type="ProgressBar" xAnchor="#Cover_01.0" x="0" yAnchor="#Controls.99.5" y="0" widthDock="x:#Cover_01.Right" width="0" height="3"  fg="15,255,255,255" bg="252,78,3" ></element>
 	<element type="ProgressPosition" xAnchor="#Controls.37" x="0" yAnchor="#Controls.62.5" y="0" align="Center" widthDock="x:#Controls.45.5" width="0" font="Segoe UI" style="Regluar" size="10" fg="200,200,200" ></element>
 
 </root>
